@@ -1,0 +1,15 @@
+﻿* {
+    background-color: #DDE5B6;
+    color: #4B543B;
+    font-family: Tahoma;
+}    
+
+ a:hover {
+    color: deeppink;
+}
+
+ #title {
+     font-size: 50px;
+     text-decoration: none;
+     text-align: center;
+ }
